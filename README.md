@@ -1,6 +1,5 @@
 # Intel-Edge-AL-Scholarship
-                                                        #  Udacity
-                                                        
+                                                      
 
 Hi Nancy,
 
@@ -21,3 +20,5 @@ See you in the classroom!
 Warm regards,
 
 The Udacity Scholarships Teams
+
+![image](https://user-images.githubusercontent.com/36210723/70866939-43aa6b00-1f78-11ea-958a-1d8746013c05.png)
