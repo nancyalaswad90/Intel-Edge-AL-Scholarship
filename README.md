@@ -5,8 +5,6 @@ Hi Nancy,
 
 Congratulations! We’re very happy to offer you an Intel® Edge AI Scholarship Foundational course. We received applications from many talented and motivated candidates, and yours truly stood out.
 
-Share your good news!
-
 ## Start Learning!
 
 Class begins D‍ec‍em‍be‍r 1‍6t‍h, 2‍01‍9 9 a‍m PS‍T
