@@ -20,3 +20,8 @@ Warm regards,
 The Udacity Scholarships Teams
 
 ![image](https://user-images.githubusercontent.com/36210723/70866939-43aa6b00-1f78-11ea-958a-1d8746013c05.png)
+
+
+## Day 17 -12 -2019 
+ 
+ - I finish Lesson one and make 32% process in lesson 2 
