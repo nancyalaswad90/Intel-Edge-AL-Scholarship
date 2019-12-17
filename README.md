@@ -25,3 +25,5 @@ The Udacity Scholarships Teams
 ## Day 17 -12 -2019 
  
  - I finish Lesson one and make 32% process in lesson 2 
+
+        ![image](https://user-images.githubusercontent.com/36210723/71018676-97948b80-2101-11ea-849c-9b86eff07a5e.png)
