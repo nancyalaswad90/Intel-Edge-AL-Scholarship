@@ -36,7 +36,12 @@ The Udacity Scholarships Teams
 ![image](https://user-images.githubusercontent.com/36210723/71069138-cbfb5c80-2180-11ea-981d-ee0a86d446d0.png)
 
 
+
 ## Day 19 -12 -2019 
 
+
 - Make  100% process in lesson 2  + 3
+
+  ![image](https://user-images.githubusercontent.com/36210723/71161294-c4f04f00-2251-11ea-9d06-a3b4f5d70094.png)
+
 
