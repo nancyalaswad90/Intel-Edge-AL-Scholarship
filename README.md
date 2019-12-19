@@ -34,3 +34,9 @@ The Udacity Scholarships Teams
  - Make  89% process in lesson 2 
 
 ![image](https://user-images.githubusercontent.com/36210723/71069138-cbfb5c80-2180-11ea-981d-ee0a86d446d0.png)
+
+
+## Day 19 -12 -2019 
+
+- Make  100% process in lesson 2  + 3
+
