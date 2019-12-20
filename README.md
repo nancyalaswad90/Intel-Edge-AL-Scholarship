@@ -50,3 +50,4 @@ The Udacity Scholarships Teams
 
 - Make  100% process in lesson 4
 
+  ![image](https://user-images.githubusercontent.com/36210723/71241681-e1a18b00-2314-11ea-909a-941a707b42bd.png)
