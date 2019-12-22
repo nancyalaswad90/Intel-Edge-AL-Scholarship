@@ -60,3 +60,4 @@ The Udacity Scholarships Teams
 
 - Watching  lecture in Youtube [ What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be)
 
+https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be
