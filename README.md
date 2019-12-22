@@ -51,3 +51,12 @@ The Udacity Scholarships Teams
 - Make  100% process in lesson 4
 
   ![image](https://user-images.githubusercontent.com/36210723/71241681-e1a18b00-2314-11ea-909a-941a707b42bd.png)
+
+
+
+## Day 21 - 22  -12 -2019 
+
+- Make  100% process in lessons
+
+- Watching  lecture in Youtube [ What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be)
+
