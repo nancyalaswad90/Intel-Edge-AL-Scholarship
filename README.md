@@ -58,6 +58,8 @@ The Udacity Scholarships Teams
 
 - Make  100% process in lessons
 
+![image](https://user-images.githubusercontent.com/36210723/71474519-8116c000-27e4-11ea-884a-13869ee12d1c.png)
+
 - Watching  lecture in Youtube [ What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be)
 
 https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be
