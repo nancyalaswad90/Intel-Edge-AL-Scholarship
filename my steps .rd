@@ -8,4 +8,8 @@ Make sure to click the button below before you get started to source the correct
 5.sudo ./downloader.py --name human-pose-estimation-0001 -o /home/workspace
 6.sudo ./downloader.py --name text-detection-0004 --precisions FP16 -o /home/workspace
 7.sudo ./downloader.py --name vehicle-attributes-recognition-barrier-0039 --precisions INT8 -o /home/workspace
+8. to verify the directory we ask  ( ls)
+9.cd /home/workspace/intel
+(venv) root@35b6a7cbb46f:/home/workspace/intel#
+10. then (cd intel)
 
