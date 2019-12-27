@@ -1,4 +1,8 @@
+
+## 8. Solution: Loading Pre-Trained Models
 Loading Pre-Trained Models
+
+
 Make sure to click the button below before you get started to source the correct environment.
 
 1. SOURCE ENV
@@ -11,5 +15,7 @@ Make sure to click the button below before you get started to source the correct
 8. to verify the directory we ask  ( ls)
 9.cd /home/workspace/intel
 (venv) root@35b6a7cbb46f:/home/workspace/intel#
+
+
 10. then (cd intel)
 
