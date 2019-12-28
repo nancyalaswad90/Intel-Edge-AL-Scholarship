@@ -16,7 +16,10 @@ Make sure to click the button below before you get started to source the correct
 9.cd /home/workspace/intel
 (venv) root@35b6a7cbb46f:/home/workspace/intel#
 
-
 10. then (cd intel)
 
 ## 13. Solution:
+
+Testing
+To test your implementation, you can just run **python test.py.**
+
