@@ -21,5 +21,5 @@ Make sure to click the button below before you get started to source the correct
 ## 13. Solution:
 
 Testing
-To test your implementation, you can just run **python test.py.**
+To test your implementation, you can just run ** python test.py.**
 
