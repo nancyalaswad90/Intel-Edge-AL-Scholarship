@@ -23,3 +23,8 @@ Make sure to click the button below before you get started to source the correct
 Testing
 To test your implementation, you can just run ** python test.py.**
 
+
+## Run the following command line
+
+cd models 
+ls
