@@ -37,3 +37,12 @@ To test your implementation, you can just run ** python test.py.**
 - `python app.py -i "images/sitting-on-car.jpg" -t "POSE" -m "/home/workspace/models/human-pose-estimation-0001.xml" -c "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"`
 
 - `python app.py -i "images/sign.jpg" -t "TEXT" -m "/home/workspace/models/text-detection-0004.xml" -c "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"`
+
+
+ - By the way, the error you had on the wrong  `directory /home/workspace/models`   is because when you use the command line
+`python`
+
+you need to be on the same directory of the code you want to execute which in this case is ` app.py`   
+`python app.py`
+
+app.py is at the directory /home/workspace
