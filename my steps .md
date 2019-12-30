@@ -6,6 +6,10 @@
 Make sure to click the button below before you get started to source the correct environment.
 
 1. * SOURCE ENV*
+
+![image](https://user-images.githubusercontent.com/36210723/71602152-89ae2400-2b5f-11ea-9920-4d69272104a0.png)
+
+
 2.cd /opt/intel/openvino/deployment_tools/open_model_zoo/tools/downloader
 3.python downloader.py -h
 4.ls
