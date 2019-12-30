@@ -26,5 +26,12 @@ To test your implementation, you can just run ** python test.py.**
 
 ## Run the following command line
 
-cd models 
-ls
+- cd models 
+
+- ls
+
+- cd ..   ( this moves the directory back once. So from /home/workspace/models it will move to /home/workspace )
+
+-  cd /home/workspace
+
+- `python app.py -i "images/sitting-on-car.jpg" -t "POSE" -m "/home/workspace/models/human-pose-estimation-0001.xml" -c "/opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so"`
