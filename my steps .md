@@ -57,10 +57,11 @@ app.py is at the directory /home/workspace
 
 
 
-## lesson 3.18
+## lesson 3
 
-for bref working in this excercise 
-Lesson3-Excersice 7: Step-by-Step Read&Run
+for bref working in this excercise  for main Excersice :
+
+### Lesson3-Excersice 7: Step-by-Step Read&Run
 
 
 00-:.../Web-Page*:keep this webpage open and read/run the following steps:
