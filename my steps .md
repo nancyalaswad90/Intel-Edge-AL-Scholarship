@@ -59,6 +59,7 @@ app.py is at the directory /home/workspace
 
 ## lesson 3.18
 
+for bref working in this excercise 
 Lesson3-Excersice 7: Step-by-Step Read&Run
 
 
