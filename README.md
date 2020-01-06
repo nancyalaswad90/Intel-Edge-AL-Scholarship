@@ -1,9 +1,11 @@
+
 # Intel-Edge-AL-Scholarship
                                                       
 
 Hi Nancy,
 
 Congratulations! We’re very happy to offer you an Intel® Edge AI Scholarship Foundational course. We received applications from many talented and motivated candidates, and yours truly stood out.
+
 
 ## Start Learning!
 
@@ -20,6 +22,7 @@ Warm regards,
 The Udacity Scholarships Teams
 
 ![image](https://user-images.githubusercontent.com/36210723/70866939-43aa6b00-1f78-11ea-958a-1d8746013c05.png)
+
 
 
 My pledge "2.5 months of Udacity" for the Intel Edge AI Scholarship Program:
