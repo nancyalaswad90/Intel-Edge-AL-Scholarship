@@ -71,3 +71,8 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 - Watching  lecture in Youtube [ What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be)
 
 https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be
+
+
+## Finish my Bingo game 
+
+![image](https://user-images.githubusercontent.com/36210723/71977283-107a9500-3221-11ea-9404-54a3360f7cf9.png)
