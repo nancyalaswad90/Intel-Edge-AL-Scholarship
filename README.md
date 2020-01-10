@@ -88,3 +88,18 @@ https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be
 # My certification 
 
 https://video.udacity-data.com/topher/2020/January/5e139359_certificate-participant-bleed-1200x900/certificate-participant-bleed-1200x900.jpg
+
+
+## Day 08 -1 -2020
+
+
+- Make  Study Group with friend in Intel Edge AI Scholarship Challenge included 
+            @viniciusg @Marwa @Faizan Ahmed @Walla Adlan @Anna Scott @bkocis @Muhammad Ali @Juan Carlos Kuri Pinto
+
+
+ - Make descuss our goals and decided to study to success until got second phase 
+
+
+## Day 09 -1 -2020
+
+
