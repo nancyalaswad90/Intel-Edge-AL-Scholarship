@@ -100,6 +100,12 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
  - Make descuss our goals and decided to study to success until got second phase 
 
 
+
+![image](https://user-images.githubusercontent.com/36210723/72155030-d04f1a00-33ba-11ea-8ee9-3adcbf8ede24.png)
+
+
+
+
 ## Day 09 -1 -2020
 
 
