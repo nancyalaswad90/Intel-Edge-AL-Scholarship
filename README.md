@@ -106,6 +106,13 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 
 
-## Day 09 -1 -2020
+## Day 10 -1 -2020
 
+
+
+- Study Group Progress and descussion in Slack 
+
+            @viniciusg @Marwa @Faizan Ahmed @Walla Adlan @Anna Scott @bkocis @Muhammad Ali @Juan Carlos Kuri Pinto
+            
+![image](https://user-images.githubusercontent.com/36210723/72195578-ada11d80-341b-11ea-8aa9-dcacab01c07f.png)
 
