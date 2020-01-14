@@ -121,3 +121,18 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 - Join Study Group Progress and descussion in Slack for Rab 
 ![image](https://user-images.githubusercontent.com/36210723/72212436-b90c4b80-34e4-11ea-942e-cbd74e67cde1.png)
+
+
+
+
+## Day 14 -1 -2020
+
+### Day 1:
+
+- Pledged for #30_days_udacity 
+- Review lesson 3
+- Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
+
+
+
+
