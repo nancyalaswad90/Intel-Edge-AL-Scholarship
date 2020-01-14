@@ -129,7 +129,7 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 ### Day 1:
 
-- (Pledged)[https://github.com/nancyalaswad90/Intel-Edge-AL-Scholarship/blob/master/images/IMG_20200114_212705.jpg] for #30_days_udacity 
+- [Pledged](https://github.com/nancyalaswad90/Intel-Edge-AL-Scholarship/blob/master/images/IMG_20200114_212705.jpg) for #30_days_udacity 
 - Review lesson 3
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
