@@ -136,3 +136,9 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 
 
+## Day 15 -1 -2020
+
+### Day 2:
+
+- Continue Review lesson 3
+- Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
