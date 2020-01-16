@@ -99,7 +99,7 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 ![image](https://user-images.githubusercontent.com/36210723/72155073-e9f06180-33ba-11ea-9256-4df3ea7fec3d.png)
 
- - Make descuss our goals and decided to study to success until got second phase 
+ - Make descuss our [goals and decided](https://user-images.githubusercontent.com/36210723/72155030-d04f1a00-33ba-11ea-8ee9-3adcbf8ede24.png) to study to success until got second phase 
 
 
 ![image](https://user-images.githubusercontent.com/36210723/72155030-d04f1a00-33ba-11ea-8ee9-3adcbf8ede24.png)
@@ -121,7 +121,6 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 - Join Study Group Progress and descussion in Slack for Rab 
 ![image](https://user-images.githubusercontent.com/36210723/72212436-b90c4b80-34e4-11ea-942e-cbd74e67cde1.png)
-
 
 
 
