@@ -143,7 +143,7 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 ### Day 3:
 
-- [the Honorable Mentions Wall! :star2:  ](https://sites.google.com/udacity.com/intel-edge-ai-scholarship/community/30-days-of-udacity/honorable-mentions-wall) for #30_days_udacity 
+-  Get my name in [the Honorable Mentions Wall! :star2:  ](https://sites.google.com/udacity.com/intel-edge-ai-scholarship/community/30-days-of-udacity/honorable-mentions-wall) for #30_days_udacity 
 - finish Review lesson 3
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
