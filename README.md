@@ -147,3 +147,12 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 - finish Review lesson 3
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
+
+## Day 17 -1 -2020
+
+Day 4
+
+ Completed Lesson 3
+ Started Lesson 4
+
+Encouraging @Cedric_swiss @Patrick APICH 
