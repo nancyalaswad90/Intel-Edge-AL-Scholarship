@@ -115,8 +115,8 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 ## Day 11 -1 -2020
 
-- Join Study Group Progress and descussion in Slack for Rab 
-![image](https://user-images.githubusercontent.com/36210723/72212436-b90c4b80-34e4-11ea-942e-cbd74e67cde1.png)
+- Join Study Group [Progress](https://user-images.githubusercontent.com/36210723/72212436-b90c4b80-34e4-11ea-942e-cbd74e67cde1.png) and descussion in Slack for Rab 
+
 
 
 
