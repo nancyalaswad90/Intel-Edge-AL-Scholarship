@@ -152,7 +152,14 @@ https://video.udacity-data.com/topher/2020/January/5e139359_certificate-particip
 
 Day 4
 
- Completed Lesson 3
- Started Lesson 4
+ - Completed Lesson 3
+ - Started Lesson 4
+ - Encouraging @Cedric_swiss @Patrick APICH 
 
-Encouraging @Cedric_swiss @Patrick APICH 
+
+## Day 18 -1 -2020
+
+Day 5 
+
+- finish Quiz lesson 3.18
+- Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
