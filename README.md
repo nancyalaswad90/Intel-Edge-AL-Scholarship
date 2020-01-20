@@ -62,7 +62,7 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 
 ## Day 21 - 22  -12 -2019 
 
-- Make  [100% process] in lessons(https://user-images.githubusercontent.com/36210723/71474519-8116c000-27e4-11ea-884a-13869ee12d1c.png)
+- Make  [100% process in lessons](https://user-images.githubusercontent.com/36210723/71474519-8116c000-27e4-11ea-884a-13869ee12d1c.png)
 
 
 - Watching  lecture in Youtube [ What is edge computing?](https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be)
