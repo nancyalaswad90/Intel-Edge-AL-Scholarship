@@ -102,17 +102,14 @@ https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be
 
 
 
-- Study Group Progress and descussion in Slack 
+- Study Group Progress and [descussion in Slack ](https://user-images.githubusercontent.com/36210723/72195578-ada11d80-341b-11ea-8aa9-dcacab01c07f.png)
 
             @viniciusg @Marwa @Faizan Ahmed @Walla Adlan @Anna Scott @bkocis @Muhammad Ali @Juan Carlos Kuri Pinto
-            
-![image](https://user-images.githubusercontent.com/36210723/72195578-ada11d80-341b-11ea-8aa9-dcacab01c07f.png)
 
 
 ## Day 11 -1 -2020
 
 - Join Study Group [Progress](https://user-images.githubusercontent.com/36210723/72212436-b90c4b80-34e4-11ea-942e-cbd74e67cde1.png) and descussion in Slack for Rab 
-
 
 
 
