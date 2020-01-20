@@ -48,9 +48,7 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 ## Day 19 -12 -2019 
 
 
-- Make  100% process in lesson 2  + 3
-
-  ![image](https://user-images.githubusercontent.com/36210723/71161294-c4f04f00-2251-11ea-9d06-a3b4f5d70094.png)
+- Make [ 100% process in lesson 2  + 3](https://user-images.githubusercontent.com/36210723/71161294-c4f04f00-2251-11ea-9d06-a3b4f5d70094.png)
 
 
 ## Day 20 -12 -2019 
