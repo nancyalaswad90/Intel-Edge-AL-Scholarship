@@ -154,3 +154,15 @@ Day 5
 
 - finish Quiz lesson 3.18
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
+
+
+## Day 19 -1 -2020
+
+Day 6
+
+
+- Review  lesson 4
+- Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
+
+
+
