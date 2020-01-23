@@ -173,4 +173,13 @@ Day 10
    My motivation comes from my Father . The hard worker man who make all his life  for his family Whenever I feel down or helpless I just think of him and get strong ,he always say (( Wake and try again and again .... dont give up)), Actually his words always work with me and I got what I wanted . 
 - Continue Review  lesson 4
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis
-   
+
+Day.21 -1 -2020
+
+Day 11
+
+- Review  lesson 4
+
+- Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
+
+
