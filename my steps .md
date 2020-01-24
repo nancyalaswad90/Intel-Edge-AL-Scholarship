@@ -59,6 +59,7 @@ app.py is at the directory /home/workspace
 
 ## lesson 3
 
+
 for bref working in this excercise  for main Excersice :
 
 ### Lesson3-Excersice 7: Step-by-Step Read&Run
@@ -95,6 +96,7 @@ https://docs.openvinotoolkit.org/latest/_docs_MO_DG_prepare_model_convert_model_
 
 12:.../workspace#$MOPATH/mo_tf.py --input_model $MODPB --tensorflow_use_custom_operations_config $MODCFG --tensorflow_object_detection_api_pipeline_config $PIPCFG --reverse_input_channels
 Results
+
 
 [ SUCCESS ] Generated IR model.
 [ SUCCESS ] XML file: /home/workspace/./frozen_inference_graph.xml
