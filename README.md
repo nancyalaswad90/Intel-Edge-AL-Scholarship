@@ -174,7 +174,7 @@ Day 10
 - Continue Review  lesson 4
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis
 
-Day.21 -1 -2020
+## Day .21 -1 -2020
 
 Day 11
 
@@ -183,7 +183,7 @@ Day 11
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
 
-Day 21 -1 -2020
+## Day 21 -1 -2020
 
 Day 11
 
@@ -191,7 +191,7 @@ Day 11
 
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
-Day.22 + 23 -1 -2020
+## Days 22 + 23 -1 -2020
 
 Day 12  +13 
 
@@ -200,7 +200,7 @@ Day 12  +13
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
 
-Day. 24 -1 -2020
+## Day 24 -1 -2020
 
 Day 14 
 
