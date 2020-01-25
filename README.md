@@ -66,15 +66,11 @@ https://www.udacity.com/scholarships/intel-edge-ai-scholarship
 https://www.youtube.com/watch?v=cEOUeItHDdo&feature=youtu.be
 
 
-## Finish my Bingo game 
+## Finish my [Bingo game ](https://user-images.githubusercontent.com/36210723/72023496-a6dba480-327b-11ea-8e28-71fa9a60feb3.png)
 
 ![image](https://user-images.githubusercontent.com/36210723/71977283-107a9500-3221-11ea-9404-54a3360f7cf9.png)
 
 ![image](https://user-images.githubusercontent.com/36210723/72023549-c2df4600-327b-11ea-8a71-e15db11d5e72.png)
-
-
-![image](https://user-images.githubusercontent.com/36210723/72023496-a6dba480-327b-11ea-8e28-71fa9a60feb3.png)
-
 
 
 
