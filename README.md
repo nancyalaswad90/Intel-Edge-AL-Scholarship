@@ -201,3 +201,12 @@ Day 14
 
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
+
+## Day 25 -1 -2020
+
+Day 15
+
+- Continue Review lesson 5
+
+- Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
+
