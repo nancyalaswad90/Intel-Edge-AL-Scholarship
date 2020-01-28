@@ -210,3 +210,9 @@ Day 15
 
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
+Day 26 + 27  -1 -2020
+Day 16 +17 
+
+Continue Review lesson 5
+
+Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis
