@@ -210,7 +210,8 @@ Day 15
 
 - Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis 
 
-Day 26 + 27  -1 -2020
+## Day 26 + 27  -1 -2020
+
 Day 16 +17 
 
 Continue Review lesson 5
@@ -218,9 +219,18 @@ Continue Review lesson 5
 Encourage @Marwa @Faizan Ahmed @viniciusg @Walla Adlan @Anna Scott @bkocis
 
 
-Day 28 + 29  -1 -2020 
+## Day 28 + 29  -1 -2020 
+
 Day 18  +19 
 
  - Continue  Review lesson 5
 
- - Encourage @Marwa @Faizan Ahmed  @Dina AbdelRahman
+ - Encourage @Marwa @Faizan Ahmed  @Dina AbdelRahman 
+ 
+##  Day 30 + 31 -1 -2020 #30_days_udacity 
+
+Day  20 +21 
+
+Finish review lesson 5
+
+Encourage @Marwa @Faizan Ahmed  @Dina AbdelRahman
